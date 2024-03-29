@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/logo/logo.png" alt="Immersion" width="400">
-  <br/>
-</p>
+# Immersion (Castel's code from the npm package immersion-presentation)
 
 Immersion is an open source presentation framework based on React.
 
