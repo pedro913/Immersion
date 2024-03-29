@@ -60,19 +60,11 @@ function App() {
             Item 3
           </Item>
         </List>
+
         <Box> 
           Theorem. This is inside a box.
         </Box>
-        
-        <Portal>
-          Test
-        </Portal>
 
-        <span>
-        Escrevendo alguma coisa qualquer
-        </span>
-        <Qed>
-        </Qed>
       </Slide>
     </Presentation>
   );
