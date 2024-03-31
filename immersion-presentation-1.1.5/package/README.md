@@ -18,9 +18,16 @@ Once in the directory execute `yarn start` and the presentation will open up in 
 
 ## Problems?
 
-You may end up seen some errors because the package is not up-to-date. To be able to run, you can reinstall `immersion-presentation` using `--legacy-peer-dips`, 
-and intall the new version of `querystring`. Then once again in the directory you can execute `yarn start` and the presentation will open up in the browser window
-without errors.
+You may end up seen some errors because the package is not up-to-date. To be able to run, you can run the following commands 
+inside the directory:
+
+```bash
+npm install --legacy-peer-dips immersion-presentation
+npm install querystring
+```
+
+Then once again in the directory you can execute `yarn start` and the presentation will open up in the browser window 
+without (major) errors.
 
 
 
